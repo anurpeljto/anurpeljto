@@ -15,8 +15,8 @@ public class task8 {
 	public static void palindrome(String word) {
 		String nStr = "";
 		char temp;
-		for(int i=0; i<word.length(); i++) {
-			temp = word.charAt(i);
+		for(int i=word.length(); i>0; i--) {
+			temp = word.charAt(i-1);
 			nStr += temp;
 		}
 		if (nStr.equals(word)) {	// could also have used if(nStr.compareTo(word) == 0)
