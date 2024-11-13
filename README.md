@@ -1,7 +1,8 @@
 Hello there 👋
-A Full-Stack Developer from Sarajevo, BiH
+I am a Full-Stack Developer from Sarajevo, BiH
 
-Front-End Developer at Comp-IT;
+Currently working as a Front-End Developer;
 
     ⚙️ My most used stack: .ts, .js, .ng, .tsx
     🌍 I'm mostly active within the Angular and Next community
+
